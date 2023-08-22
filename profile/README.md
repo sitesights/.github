@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋, welcome to Sitesights.io!</h1>
-<h3 align="center">We offer you a privacy friendly alternative to Google Analytics with focus on essentials Insights for your website or mobile app! Increase your revenue with cookie-less tracking and make your users happy with privacy.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![Logo](https://app-static.sitesights.io/images/brand.png)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+# Sitesights.io
+We offer you a privacy-friendly alternative to Google Analytics with a focus on essential Insights for your website or mobile app! Increase your revenue with cookie-less tracking and make your users happy with privacy.
+
+We will upload here our Serverside Libraries and Plugins.
+
+## Why you will love Sitesights
+* Privacy by Design
+* Increase your ROI with smart insights
+* Understand your customers better
+* You don`t need a cookie banner
+* Detailed event, goal and revenue tracking
+
+## Documentation
+You can find our documentation [here](https://docs.sitesights.io). 
+
