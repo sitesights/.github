@@ -16,3 +16,5 @@ We will upload here our Serverside Libraries and Plugins.
 ## Documentation
 You can find our documentation [here](https://docs.sitesights.io). 
 
+## Try out Sitesights for free
+[sitesights.io](https://sitesights.io)
